@@ -1,0 +1,7 @@
+[requires]
+cmake/3.25.3
+poco/1.12.4
+
+[generators]
+CMakeDeps
+CMakeToolchain
